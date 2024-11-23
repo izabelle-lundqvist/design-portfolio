@@ -7,7 +7,8 @@ body, h1, p {
 
 /* Background adjustments */
 body {
-    background: linear-gradient(135deg, #e0f5e9, #c3e8d6); /* Subtle green gradient */
+    background: linear-gradient(135deg, #0a8270
+    ,#7cff6b); /* Subtle green gradient */
     color: #2c3e50; /* Dark charcoal for text */
 }
 
